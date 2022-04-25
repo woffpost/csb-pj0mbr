@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://woffpost.github.io/csb-pj0mbr/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://woffpost.github.io/csb-pj0mbr/static/js/main.0b993681.chunk.js",
+    "main.js.map": "https://woffpost.github.io/csb-pj0mbr/static/js/main.0b993681.chunk.js.map",
+    "runtime-main.js": "https://woffpost.github.io/csb-pj0mbr/static/js/runtime-main.be77cfd1.js",
+    "runtime-main.js.map": "https://woffpost.github.io/csb-pj0mbr/static/js/runtime-main.be77cfd1.js.map",
+    "static/js/2.b21dc211.chunk.js": "https://woffpost.github.io/csb-pj0mbr/static/js/2.b21dc211.chunk.js",
+    "static/js/2.b21dc211.chunk.js.map": "https://woffpost.github.io/csb-pj0mbr/static/js/2.b21dc211.chunk.js.map",
+    "index.html": "https://woffpost.github.io/csb-pj0mbr/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://woffpost.github.io/csb-pj0mbr/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.b21dc211.chunk.js.LICENSE.txt": "https://woffpost.github.io/csb-pj0mbr/static/js/2.b21dc211.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be77cfd1.js",
+    "static/js/2.b21dc211.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.0b993681.chunk.js"
+  ]
+}
